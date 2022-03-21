@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c3e961f_002D3cbe_002D4e28_002Dabf7_002Deebd28ccf612/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VkApiTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4676D225-E67D-4D9E-BFEC-551691B6917B::net5.0::VkApi.VkApiTests.VkApiTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=210b9cd8_002D6893_002D452a_002D83ee_002D913f39ce1f18/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VkApiTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4676D225-E67D-4D9E-BFEC-551691B6917B::net5.0::VkApi.VkApiTests.VkApiTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6d8a7a4_002D7013_002D4c72_002Db3b7_002D033db7bdf7b0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VkApiTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4676D225-E67D-4D9E-BFEC-551691B6917B::net5.0::VkApi.VkApiTests.VkApiTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd25039c_002De4af_002D49eb_002D82a1_002D9c0f36996f97/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VkApiTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4676D225-E67D-4D9E-BFEC-551691B6917B::net5.0::VkApi.VkApiTests.VkApiTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fdd58cfc_002D8102_002D411a_002D8090_002D65d1351ecf84/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;VkApi&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\artur\Desktop\VkApi" Presentation="&amp;lt;VkApi&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=chromedriver_002Eexe/@EntryIndexedValue">KillOrphaned</s:String>
+	</wpf:ResourceDictionary>

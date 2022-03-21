@@ -1,0 +1,3 @@
+﻿{
+  "baseApiUrl": "https://api.vk.com/method/METHOD?access_token=TOKEN&v=V"
+}
